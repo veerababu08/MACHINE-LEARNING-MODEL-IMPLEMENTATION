@@ -30,8 +30,7 @@ This project is ideal for **learning the ML workflow** and can be adapted to dif
 
 ---
 ##Output fhe code :
-<img width="969" height="776" alt="image" src="https://github.com/user-attachments/assets/f08266c6-3093-4420-90f2-2fdc1e018bd2" />
-<img width="356" height="85" alt="image" src="https://github.com/user-attachments/assets/696ae6ff-3eff-47a0-8011-777058987145" />
+
 
 
 
