@@ -111,7 +111,7 @@ This project is ideal for **learning the ML workflow** and can be adapted to dif
 
 ## 📊 Example Output (Varies by Dataset)
 
-* Accuracy Score: `0.89`
+* Accuracy Score: `1.0`
 * Confusion Matrix visualization
 * Sample predictions for test data
 
