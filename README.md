@@ -31,7 +31,7 @@ This project is ideal for **learning the ML workflow** and can be adapted to dif
 ---
 ##Output fhe code :
 
-
+<img width="812" height="399" alt="Image" src="https://github.com/user-attachments/assets/d4dbeb61-47f6-4b97-b280-25595c501160" />
 
 
 ## 🗂 Project Structure
